@@ -1,0 +1,33 @@
+
+6월 30, 2020 09:26:38.130 NEW SESSION
+6월 30, 2020 09:26:38.130 [10316:9312:0630/092638.128:ERROR:device_event_log_impl.cc(208)] [09:26:38.128] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+
+7월 03, 2020 10:46:01.567 NEW SESSION
+7월 03, 2020 10:46:01.567 [6748:11768:0703/104601.566:ERROR:device_event_log_impl.cc(208)] [10:46:01.565] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 03, 2020 11:21:10.488 [3300:1172:0703/112110.487:ERROR:device_event_log_impl.cc(208)] [11:21:10.488] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 03, 2020 15:21:09.583 [3300:1172:0703/152109.583:ERROR:CONSOLE(2117)] "Cannot find context with specified id", source: devtools://devtools/bundled/sdk/sdk.js (2117)
+
+7월 07, 2020 15:04:13.526 NEW SESSION
+7월 07, 2020 15:04:13.526 [3048:12840:0707/150413.514:ERROR:device_event_log_impl.cc(208)] [15:04:13.514] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 07, 2020 16:23:48.541 [3048:12840:0707/162348.541:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.491 s for first_image_paint 0.489 s
+7월 07, 2020 16:23:49.612 [3048:12840:0707/162349.611:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.491 s for first_image_paint 0.489 s
+7월 07, 2020 16:23:51.807 [3048:12840:0707/162351.807:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.491 s for first_image_paint 0.489 s
+7월 07, 2020 16:23:53.224 [3048:12840:0707/162353.223:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.491 s for first_image_paint 0.489 s
+7월 07, 2020 16:23:55.724 [3048:12840:0707/162355.723:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.491 s for first_image_paint 0.489 s
+7월 07, 2020 16:23:56.866 [3048:12840:0707/162356.865:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.491 s for first_image_paint 0.489 s
+7월 07, 2020 16:23:58.589 [3048:12840:0707/162358.588:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.491 s for first_image_paint 0.489 s
+
+7월 10, 2020 09:30:14.948 NEW SESSION
+7월 10, 2020 09:30:14.948 [6944:5488:0710/093014.946:ERROR:device_event_log_impl.cc(208)] [09:30:14.946] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 09:30:47.93 [5268:176:0710/093047.093:ERROR:device_event_log_impl.cc(208)] [09:30:47.093] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 09:36:08.970 [4620:1880:0710/093608.970:ERROR:device_event_log_impl.cc(208)] [09:36:08.970] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 11:59:22.167 [2916:11664:0710/115922.167:ERROR:device_event_log_impl.cc(208)] [11:59:22.166] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 12:01:13.915 [4360:520:0710/120113.915:ERROR:device_event_log_impl.cc(208)] [12:01:13.915] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 12:08:50.123 [10612:4476:0710/120850.123:ERROR:device_event_log_impl.cc(208)] [12:08:50.123] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 12:09:58.572 [12824:6556:0710/120958.572:ERROR:device_event_log_impl.cc(208)] [12:09:58.572] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 12:11:48.324 [6248:3128:0710/121148.323:ERROR:device_event_log_impl.cc(208)] [12:11:48.323] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 10, 2020 12:48:59.486 [12576:9364:0710/124859.486:ERROR:device_event_log_impl.cc(208)] [12:48:59.485] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+
+7월 14, 2020 09:15:08.134 NEW SESSION
+7월 14, 2020 09:15:08.135 [11896:13032:0714/091508.133:ERROR:device_event_log_impl.cc(208)] [09:15:08.133] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+7월 14, 2020 11:47:19.926 [7688:4256:0714/114719.926:ERROR:device_event_log_impl.cc(208)] [11:47:19.926] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.

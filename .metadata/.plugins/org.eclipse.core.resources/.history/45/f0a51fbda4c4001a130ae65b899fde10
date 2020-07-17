@@ -1,0 +1,26 @@
+package kr.co.domain;
+
+import java.io.Serializable;
+import java.util.Arrays;
+
+public class BoardVO implements Serializable{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+    private int bno;
+    private String title;
+    private String content;
+    private String writer;
+    private int viewcnt;
+    private String regDate;
+    private String UpdateDate;
+    private String[] files;
+	
+	public BoardVO() {
+		// TODO Auto-generated constructor stub
+	}
+
+
+}

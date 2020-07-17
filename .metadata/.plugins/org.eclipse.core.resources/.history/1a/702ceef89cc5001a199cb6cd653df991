@@ -1,0 +1,10 @@
+package kr.co.inter;
+
+import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
+
+public class AuthInter extends HandlerInterceptorAdapter{
+
+	
+	
+
+}

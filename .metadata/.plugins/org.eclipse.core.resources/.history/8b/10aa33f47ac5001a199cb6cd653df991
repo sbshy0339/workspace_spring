@@ -1,0 +1,28 @@
+package kr.co.ca;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import kr.co.domain.LoginDTO;
+import kr.co.service.MemberService;
+
+@Controller
+@RequestMapping("member")
+public class MemberController {
+
+	@Autowired
+	private MemberService memberService;
+	
+	@RequestMapping(value = "/loginpost , method = RequestMethod.POST")
+	public String loginpost(LoginDTO login, Model model) {
+		
+		return "redirect:/member/list";
+		
+	}
+	
+	
+	
+
+}
