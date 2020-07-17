@@ -29,9 +29,11 @@ public class MyController {
 
 		name = toKor(name);
 		
-
-		model.addAttribute("name", name);
-
+<<<<<<< HEAD
+		model.addAttribute("nasasasme", name);
+=======
+		model.addAttribute("namasasae", name);
+>>>>>>> fetch_head
 		
 		return "insert";
 	}
