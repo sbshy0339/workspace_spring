@@ -29,7 +29,7 @@ public class MyController {
 
 		name = toKor(name);
 		
-		model.addAttribute("name", name);
+		model.addAttribute("namasasae", name);
 		
 		return "insert";
 	}
